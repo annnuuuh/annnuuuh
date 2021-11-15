@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anna!</h1>
 <h3 align="center">A Software Developer, user experience advocate and totally cool Mom.</h3>
 
-- 🔭 I’m currently working on [Bev's List](https://github.com/annnuuuh/bev)
+- 🔭 I’m currently working on [Ru-Pedia](https://github.com/annnuuuh/ru-pedia) -- My final project for Turing Module 3. 
 
 - 🌱 I’m currently learning **React & User Authentication**
 
