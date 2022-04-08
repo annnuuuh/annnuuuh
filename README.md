@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anna!</h1>
 <h3 align="center">A Software Developer, user experience advocate and totally cool Mom.</h3>
 
-- 🔭 I’m currently working on [Ru-Pedia](https://github.com/annnuuuh/ru-pedia) -- My final project for Turing Module 3. 
+- 🔭 I'm currently a Junior Software Developer for FlipOS. 
 
-- 🌱 I’m currently learning **React & User Authentication**
+- 🌱 My schooling focused solely on Front End but I'm finding in my current role that I do like to work on Server side development.
 
 - 💬 Ask me about **anything software development, parenting or Arizona!**
 
-- 📫 How to reach me **ae.johnson2931@gmail.com**
+- 📫 How to reach me **anna@desertform.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
