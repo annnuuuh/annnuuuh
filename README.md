@@ -6,8 +6,7 @@
 💬 Ask me about **React, Parenting or Desert Dwelling**
 📫 How to reach me **anna@desertform.com**
 
-<p align="left">
- Say hello!
-<a href="https://linkedin.com/in/aesprague" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aesprague" height="20" width="30" /></a>
-<a href="https://instagram.com/annnuuuh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="annnuuuh" height="20" width="30" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/aesprague" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aesprague" height="30" width="40" /></a>
+<a href="https://instagram.com/annnuuuh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="annnuuuh" height="30" width="40" /></a>
 </p>
