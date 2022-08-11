@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I'm Anna.</h1>
 <h3 align="center">A Software Developer, user experience advocate and totally cool Mom.</h3>
-<br><br><br>
+
 
         💻 Turing School of Softare & Design Alum 
         🤓 Fullstack Developer @ Stoa in Phoenix, AZ working in React, TypeScript, Node.js, SQL, GraphQL
