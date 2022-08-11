@@ -1,12 +1,9 @@
-<h1 align="center">Hi 👋, I'm Anna!</h1>
+<h1 align="center">Hello! I'm Anna.</h1>
 <h3 align="center">A Software Developer, user experience advocate and totally cool Mom.</h3>
 
-- 🔭 I'm currently a Junior Software Developer for FlipOS. 
-
-- 🌱 My schooling focused solely on Front End but I'm finding in my current role that I do like to work on Server side development.
-
-- 💬 Ask me about **anything software development, parenting or Arizona!**
-
+- 💻 Turing School of Softare & Design Alum
+- 🤓 Fullstack Developer @ Stoa in Phoenix, AZ
+- 💬 Ask me about **React, Parenting or Desert Dwelling**
 - 📫 How to reach me **anna@desertform.com**
 
 <h3 align="left">Connect with me:</h3>
