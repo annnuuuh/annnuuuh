@@ -2,7 +2,7 @@
 <h3 align="center">A Software Developer, user experience advocate and totally cool Mom.</h3>
 
 
-        💻 Turing School of Softare & Design Alum 
+        💻 Turing School of Software & Design Alum 
         🤓 Fullstack Developer @ Stoa in Phoenix, AZ working in React, TypeScript, Node.js, SQL, GraphQL
         💬 Ask me about React, Parenting or Desert Dwelling 
         📫 How to reach me **anna@desertform.com** 
