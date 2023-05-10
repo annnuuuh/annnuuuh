@@ -1,10 +1,9 @@
 <h1 align="center">Hello! I'm Anna.</h1>
-<h3 align="center">A Software Developer, user experience advocate and totally cool Mom.</h3>
+<h3 align="center">Fullstack Software Engineer | Cool Mom | Dog Person.</h3>
 
 
         💻 Turing School of Software & Design Alum 
-        🤓 Fullstack Developer @ Stoa in Phoenix, AZ working in React, TypeScript, Node.js, SQL, GraphQL
-        💬 Ask me about React, Parenting or Desert Dwelling 
+        🤓 Fullstack Engineer in Phoenix, AZ working in React, TypeScript, Node.js, SQL, GraphQL, REST, Elixir
         📫 How to reach me **anna@desertform.com** 
 
 <p align="center">
