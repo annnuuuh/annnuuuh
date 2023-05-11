@@ -1,8 +1,8 @@
 <h1 align="center">Hello! I'm Anna.</h1>
-<h3 align="center">Fullstack Software Engineer | Cool Mom | Dog Person.</h3>
+<h3 align="center">Fullstack Software Engineer | Cool Mom | Dog Person</h3>
 
 
-        💻 Turing School of Software & Design Alum 
+        💻 Turing School of Software & Design Alum -- Currently looking for my next adventure!
         🤓 Fullstack Engineer in Phoenix, AZ working in React, TypeScript, Node.js, SQL, GraphQL, REST, Elixir
         📫 How to reach me **anna@desertform.com** 
 
