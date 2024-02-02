@@ -1,10 +1,10 @@
 <h1 align="center">Hello! I'm Anna.</h1>
 <h3 align="center">Fullstack Software Engineer | Cool Mom | Dog Person</h3>
-<p align="center">Looking for my next adventure after being laid off in March!</p>
+<p align="center">Currently at Heroku working in Elixir.</p>
 
 
         💻 Turing School of Software & Design Alum
-        🤓 Fullstack Engineer in Phoenix, AZ working in React, TypeScript, Node.js, SQL, GraphQL, REST, Elixir
+        🤓 Fullstack Engineer in Phoenix, AZ.
         📫 How to reach me **anna@desertform.com** 
 
 <p align="center">
