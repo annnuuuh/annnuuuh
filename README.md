@@ -5,6 +5,7 @@
 
         💻 Turing School of Software & Design Alum
         🤓 Fullstack Engineer in Phoenix, AZ.
+        💜 Currently working in Elixir & Ruby @ Heroku.
         📫 How to reach me **anna@desertform.com** 
 
 <p align="center">
