@@ -6,7 +6,7 @@
         💻 Turing School of Software & Design Alum
         🤓 Fullstack Engineer in Phoenix, AZ.
         💜 Currently working in Elixir & Ruby @ Heroku.
-        📫 How to reach me **anna@desertform.com** 
+        📫 How to reach me anna@desertform.com
 
 <p align="center">
 <a href="https://linkedin.com/in/aesprague" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aesprague" height="30" width="40" /></a>
